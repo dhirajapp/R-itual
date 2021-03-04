@@ -1,0 +1,26 @@
+{
+  "name": "r-itual",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Let's build a fully functional e-commerce site on MERN stack!!",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhirajapp/R-itual.git"
+  },
+  "author": "@Dhiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhirajapp/R-itual/issues"
+  },
+  "homepage": "https://github.com/dhirajapp/R-itual#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
