@@ -90,13 +90,6 @@ button.primary {
 button.block {
   width: 100%;
 }
-
-i{
-  height: 4px;
-  font-weight: 7px;
-}
-
-
 /* Header */
 header a {
   color: #ffffff;
@@ -178,6 +171,9 @@ img.large {
   color: #404040;
 }
 /* Alert */
+.loading {
+  display: block !important;
+}
 .success {
   color: #20a020;
 }
