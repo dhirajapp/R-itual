@@ -5,7 +5,7 @@
   "description": "Let's build a fully functional e-commerce site on MERN stack!!",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch backend --exec node --experimental-modules backend/server.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
