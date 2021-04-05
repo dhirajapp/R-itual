@@ -239,3 +239,6 @@ img.large {
   border-top-color: #f08000;
   color: #f08000;
 }
+.chatapp {
+  height: 50px;
+}

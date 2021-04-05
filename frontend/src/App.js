@@ -85,13 +85,18 @@ Amazon Currency Converter
 Let Us Help You
 Amazon and COVID-19
 Your Account
-Your Orders
+Your Orders<br/>
 Shipping Rates & Policies
 Returns & Replacements
 Manage Your Content and Devices
 Amazon Assistant
-Help
+Help 
+
+
 </blockquote>
+<span className="chatapp">
+  <a href="https://RealTimeChatapp.dhirajapp.repl.co"  className={'fa fa-sms'} >Help Me</a>
+      </span>
 </footer>
       </div>
     </BrowserRouter>
@@ -99,3 +104,4 @@ Help
 }
 
 export default App;
+ 
