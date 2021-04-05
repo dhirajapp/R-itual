@@ -239,6 +239,8 @@ img.large {
   border-top-color: #f08000;
   color: #f08000;
 }
-.chatapp {
-  height: 50px;
+.fa-sms {
+  background-color: #2020a0;
+  color: #ffffff;
+  height: 30px;
 }
