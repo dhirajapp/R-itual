@@ -61,39 +61,12 @@ function App() {
           <Route path="/" component={HomeScreen} exact></Route>
         </main>
         <footer className="row center">All right reserved Get to Know Us
-        <blockquote>
-Careers
-Blog
-About Amazon
-Sustainability
-Investor Relations
-Amazon Devices
-Amazon Tours
-Make Money with Us
-Sell products on Amazon
-Sell apps on Amazon
-Become an Affiliate
-Advertise Your Products
-Self-Publish with Us
-Host an Amazon Hub
-›See More Make Money with Us
-Amazon Payment Products
-Amazon Business Card
-Shop with Points
-Reload Your Balance
-Amazon Currency Converter
-Let Us Help You
-Amazon and COVID-19
-Your Account
-Your Orders
-Shipping Rates & Policies
-Returns & Replacements
-Manage Your Content and Devices
-Amazon Assistant
-Help 
+        <br/>
+          <br/>
+            <br/>
+        <br/>
 
-</blockquote>
-<span className="chatapp">
+  <span className="chatapp">
   <a href="https://RealTimeChatapp.dhirajapp.repl.co"  className={'fa fa-sms'} > Help ?</a>
       </span>
       <br/>
