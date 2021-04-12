@@ -75,6 +75,7 @@ const data = {
         numReviews: 10,
         description: 'high quality product',
       },
+
       {
       
         name: 'Weeding item',
@@ -87,6 +88,71 @@ const data = {
         numReviews: 15,
         description: 'high quality product',
       },
+
+      {
+      
+        name: 'Weeding item',
+        category: 'Weeding item',
+        image: '/images/p6.png',
+        price: 130,
+        countInStock: 12,
+        brand: 'Weeding.com',
+        rating: 4.5,
+        numReviews: 15,
+        description: 'high quality product',
+      },
+
+      {
+      
+        name: 'Weeding item',
+        category: 'Weeding item',
+        image: '/images/p6.png',
+        price: 139,
+        countInStock: 12,
+        brand: 'Weeding.com',
+        rating: 4.5,
+        numReviews: 15,
+        description: 'high quality product',
+      },
+      
+      {
+      
+        name: 'Weeding item',
+        category: 'Weeding item',
+        image: '/images/p6.png',
+        price: 139,
+        countInStock: 12,
+        brand: 'Weeding.com',
+        rating: 4.5,
+        numReviews: 15,
+        description: 'high quality product',
+      },
+      
+      {
+      
+        name: 'Weeding item',
+        category: 'Weeding item',
+        image: '/images/p6.png',
+        price: 139,
+        countInStock: 12,
+        brand: 'Weeding.com',
+        rating: 4.5,
+        numReviews: 15,
+        description: 'high quality product',
+      },
+      
+      {
+      
+        name: 'Weeding item',
+        category: 'Weeding item',
+        image: '/images/p6.png',
+        price: 139,
+        countInStock: 12,
+        brand: 'Weeding.com',
+        rating: 4.5,
+        numReviews: 15,
+        description: 'high quality product',
+      }
     ],
   };
   export default data;
